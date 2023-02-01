@@ -3,8 +3,7 @@ import { useState } from "react";
 import ListDetails from "./components/ListDetails";
 import "./styles.css";
 
-//get css from description
-//install axios
+
 
 export default function App() {
   const [keyWord, setKeyWord] = useState("");
